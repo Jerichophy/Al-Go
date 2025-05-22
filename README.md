@@ -2,6 +2,8 @@
 
 Al-Go is a thesis project by ECE students Balla, Saavedra, and Tejano focused on intelligent traffic monitoring. The system detects and tracks pedestrians, people with disabilities (PWDs), and vehicles using AI models deployed on Raspberry Pi devices.
 
+[Computer Vision-Based Real-Time Pedestrian Density Monitoring for Traffic Signal Control Manuscript.pdf](https://github.com/user-attachments/files/20382916/Computer.Vision-Based.Real-Time.Pedestrian.Density.Monitoring.for.Traffic.Signal.Control.Manuscript.pdf)
+
 ## Project Structure
 
 - **Pedestrian.py**  
@@ -41,3 +43,4 @@ Al-Go is a thesis project by ECE students Balla, Saavedra, and Tejano focused on
 - Balla  
 - Saavedra  
 - Tejano
+
